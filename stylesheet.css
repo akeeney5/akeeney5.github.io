@@ -1,0 +1,101 @@
+charset "UTF-8";
+@import url("stylesheet.css");
+
+	body {
+    background-color: #472D30;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    padding-top: auto;
+    padding-right: auto;
+    padding-bottom: auto;
+    padding-left: auto;
+	}
+wrapper {
+    margin-top: 300px;
+    margin-right: 300px;
+    margin-left: 300px;
+    position: static;
+    background-color: #472D30;
+    padding-right: auto;
+    padding-bottom: auto;
+    padding-left: auto;
+    padding-top: auto;
+    margin-bottom: 300px;
+    width: 1200px;
+    height: 1200px;
+	}
+	
+	header {
+    background-color: #723D46;
+    padding: 1px 0px 1px 0px;
+    margin-top: 5px;
+    margin-right: 1px;
+    margin-left: 1px;
+    margin-bottom: 100px;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    color: #FFE1A8;
+    letter-spacing: 5px;
+    text-align: center;
+    font-weight: 400;
+	}
+	
+	#main {
+    background-color: #723D46;
+    height: 250px;
+    padding: 25px;
+    margin: 10px 50px 20px 0px;
+    float: right;
+    width: 60%;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    color: #FFE1A8;
+    font-size: 14px;
+    line-height: 22px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center bottom;
+    font-weight: 400;
+    border: thick solid #E26D5C;
+    text-align: center;
+	}
+	
+	#sidebar {
+    background-color: #723D46;
+    height: 250px;
+    padding: 25px;
+    margin: 10px 0px 20px 50px;
+    float: left;
+    width: 20%;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    color: #FFE1A8;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center bottom;
+    border: thick solid #E26D5C;
+    font-weight: 400;
+	}
+	
+	footer {
+    padding: 15px 0px 15px 0px;
+    margin: 0px 50px 0px 50px;
+    clear: both;
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center center;
+	}
+	
+nav {
+    background-color: #472D30;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    padding-top: auto;
+    padding-right: auto;
+    padding-bottom: auto;
+    padding-left: auto;
+}
