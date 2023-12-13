@@ -13,9 +13,6 @@ charset "UTF-8";
     padding-left: auto;
 	}
 wrapper {
-    margin-top: 300px;
-    margin-right: 300px;
-    margin-left: 300px;
     position: static;
     background-color: #472D30;
     padding-right: auto;
