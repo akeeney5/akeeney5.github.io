@@ -13,15 +13,7 @@ charset "UTF-8";
     padding-left: auto;
 	}
 wrapper {
-    position: static;
     background-color: #472D30;
-    padding-right: auto;
-    padding-bottom: auto;
-    padding-left: auto;
-    padding-top: auto;
-    margin-bottom: 300px;
-    width: 1200px;
-    height: 1200px;
 	}
 	
 	header {
