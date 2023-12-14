@@ -1,0 +1,135 @@
+**!Alana Keeney 12/14/23 CMT421 Final
+@import url("keeney_CMT421_stylesheet.css");
+div {
+    background-color: #723D46;
+    color: #FFE1A8;
+}
+body {
+    background-color: #472D30;
+    color: #FFE1A8;
+}
+div {
+    background-color: #723D46;
+    color: #FFE1A8;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: small;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    -webkit-box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    text-align: center;
+    text-decoration: none;
+}
+a:link {
+    color: #FFE1A8;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-size: medium;
+    background-color: #e26d5c;
+}
+a:visited {
+    color: #80ED99;
+    padding-left: auto;
+    padding-top: 20px;
+    padding-right: auto;
+    top: 20px;
+    margin-top: 20px;
+}
+a:hover {
+	color: #C7F9CC;
+}
+a:active {
+	color: #C7F9CC;
+}
+.dropdown {
+    position: static;
+    display: inline-table;
+    box-sizing: border-box;
+    margin-top: 80px;
+    margin-right: auto;
+    margin-bottom: 80px;
+    margin-left: auto;
+    background-color: #E26D5C;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: large;
+    color: #FFE1A8;
+    height: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    top: 20px;
+    -moz-box-sizing: border-box;
+    width: 100%;
+    text-align: center;
+    line-height: 10%;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #e26d5c;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-size: medium;
+    color: #FFE1A8;
+}
+
+.dropdown:hover .dropdown-content {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    margin-top: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    margin-left: 3px;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    font-size: medium;
+    color: #c9cba3;
+    background-color: #e26d5c;
+    border: thin solid #FFE1A8;
+}
+img {
+	width: 30%;
+	height: 30%;
+}
+td {
+  text-align: center;
+}
+ul {
+    text-align: center;
+    display: inline-block;
+}
+ol {
+    text-align: center;
+    text-align: center;
+    display: inline-block;
+}
+</style>
+</head>
+.padding {
+}
+.center {
+}
